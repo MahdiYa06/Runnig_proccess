@@ -1,1 +1,1 @@
-These tow files displaying the pecent of runnig proccess in a Infinite loop
+Displaying the current proccess in a Infinite loop
